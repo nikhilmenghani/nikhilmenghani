@@ -2,7 +2,7 @@
 
 [![nikhilmenghani's github stats](https://github-readme-stats.vercel.app/api?username=NikhilMenghani&theme=react&count_private=true&show_icons=true)](https://github.com/NikhilMenghani) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMenghani&theme=react&layout=compact&show_icons=true)](https://github.com/nikhilmenghani/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMenghani&theme=react&layout=compact&show_icons=true)](https://github.com/nikhilmenghani)
 <!--
 
 ### Hi there 👋

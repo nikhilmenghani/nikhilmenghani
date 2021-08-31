@@ -2,6 +2,8 @@
 
 [![nikhilmenghani's github stats](https://github-readme-stats.vercel.app/api?username=NikhilMenghani&theme=react&count_private=true&show_icons=true)](https://github.com/NikhilMenghani) 
 
+![stat](https://github-readme-streak-stats.herokuapp.com/?user=nikhilmenghani&theme=dark)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMenghani&theme=react&layout=compact&show_icons=true)](https://github.com/nikhilmenghani)
 <!--
 

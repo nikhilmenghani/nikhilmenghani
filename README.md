@@ -6,7 +6,6 @@
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMenghani&theme=react&layout=compact&show_icons=true)](https://github.com/nikhilmenghani)-->
 
-[![Nikhil's github activity graph](https://activity-graph.herokuapp.com/graph?username=nikhilmenghani&theme=gotham)](https://github.com/nikhilmenghani)
 <!--
 
 ### Hi there 👋

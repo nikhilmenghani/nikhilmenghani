@@ -1,5 +1,5 @@
 
-  <img src="https://profile-counter.glitch.me/nikhilmenghani/count.svg" />
+  <!-- <img src="https://profile-counter.glitch.me/nikhilmenghani/count.svg" /> -->
 
 
 [![nikhilmenghani's github stats](https://github-readme-stats.vercel.app/api?username=NikhilMenghani&theme=react&count_private=true&show_icons=true)](https://github.com/NikhilMenghani) 

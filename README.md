@@ -21,10 +21,9 @@ to enterprise applications, integrations, automation, and cloud solutions.
 
 * 📱 Building modern Android applications with **Kotlin & Jetpack Compose**
 * 🚀 Creator and maintainer of **NikGapps**
-* ☁️ Working with **.NET, Azure, Dynamics 365, APIs, integrations & data platforms**
 * 🛠️ I enjoy building tools that automate repetitive work and simplify complex workflows
 * 🌱 Constantly experimenting with new ideas, architectures, and developer tooling
-* ❤️ Open source enthusiast — building things that are useful beyond just my own projects
+* ❤️ Open source enthusiast - building things that are useful beyond just my own projects
 
 ---
 

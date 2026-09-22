@@ -2,9 +2,9 @@
 
 # Hi, I'm Nikhil Menghani 👋
 
-### Software Engineer · Android · Open Source · .NET · Azure
+### Software Engineer · Android · Open Source · .NET
 
-I build software that solves real problems — from Android apps and open-source tooling
+I build software that solves real problems - from Android apps and open-source tooling
 to enterprise applications, integrations, automation, and cloud solutions.
 
 <br/>
